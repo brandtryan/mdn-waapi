@@ -1,0 +1,14 @@
+html {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 62.5%;
+}
+
+body {
+	background-color: lightslategray;
+}
+
+.box {
+	box-sizing: border-box;
+}
